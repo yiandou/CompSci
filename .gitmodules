@@ -1,0 +1,6 @@
+[submodule "CompSci1"]
+	path = CompSci1
+	url = https://github.com/yiandou/CompSci1
+[submodule "githubpractice"]
+	path = githubpractice
+	url = https://github.com/yiandou/githubpractice
