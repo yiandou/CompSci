@@ -4,3 +4,6 @@
 [submodule "githubpractice"]
 	path = githubpractice
 	url = https://github.com/yiandou/githubpractice
+[submodule "APCompSciCreateTask"]
+	path = APCompSciCreateTask
+	url = https://github.com/yiandou/APCompSciCreateTask
