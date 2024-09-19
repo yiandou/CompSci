@@ -7,3 +7,6 @@
 [submodule "APCompSciCreateTask"]
 	path = APCompSciCreateTask
 	url = https://github.com/yiandou/APCompSciCreateTask
+[submodule "p3wordle"]
+	path = p3wordle
+	url = https://github.com/yiandou/p3wordle
