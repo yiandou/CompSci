@@ -10,3 +10,9 @@
 [submodule "p3wordle"]
 	path = p3wordle
 	url = https://github.com/yiandou/p3wordle
+[submodule "p3wiki"]
+	path = p3wiki
+	url = https://github.com/yiandou/p3wiki
+[submodule "bin2dec"]
+	path = bin2dec
+	url = https://www.github.com/yiandou/bin2dec
